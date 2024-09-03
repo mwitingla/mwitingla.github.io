@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mwitingla.github.io/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/app/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/assets/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/css/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/includes/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/item/sitemap.html.gz
+Sitemap: https://mwitingla.github.io/src/sitemap.html.gz
